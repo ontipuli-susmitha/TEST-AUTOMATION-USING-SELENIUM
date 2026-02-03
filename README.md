@@ -74,4 +74,6 @@ These screenshots prove that the Selenium automation script executed correctly a
 ## Output
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/df80e9d9-2d1a-4613-ae21-0317943a952c" />
 
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/df80e9d9-2d1a-4613-ae21-0317943a952c" />
+
 
