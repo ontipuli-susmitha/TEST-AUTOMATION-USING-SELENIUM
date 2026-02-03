@@ -3,7 +3,7 @@
 ## CODTECH Internship - Task-1
 "Company":CODTECH IT SOLUTIONS
 
-"Intern Name":ontipuli.susmitha
+"Intern Name":ONTIPULI.SUSMITHA
 
 "Intern ID":CTIS2672
 
