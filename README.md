@@ -11,7 +11,7 @@
 
 "Duration": 4 Weeks
 
-"Mentor": Neela Santosh kumar
+"Mentor": Neela Santosh
 
 ## Code description
 CodTech Internship Task-1 focuses on test automation using Selenium WebDriver. In this task, the intern is required to automate the testing of a sample web application, mainly concentrating on the login functionality and basic navigation features. The task involves identifying web elements, entering valid credentials, performing login actions, and verifying successful navigation between different pages of the application. Selenium WebDriver is used to simulate real user interactions with the browser and validate the expected behavior of the application. The final deliverables include a repository containing the automation scripts and a test execution report that documents the test cases, execution results, and overall test status. This task helps interns gain practical experience in automation testing and understand how automated tools improve the efficiency and reliability of software testing.
@@ -72,3 +72,5 @@ These screenshots prove that the Selenium automation script executed correctly a
 14.Save scripts and screenshots in the project folder.
 
 ## Output
+
+
