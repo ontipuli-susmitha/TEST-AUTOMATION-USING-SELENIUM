@@ -1,0 +1,30 @@
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+import time
+
+# Set Chrome driver path
+driver = webdriver.Chrome()
+
+# Open website
+driver.get("https://the-internet.herokuapp.com/login")
+driver.maximize_window()
+
+# Locate username and password fields
+driver.find_element(By.ID, "username").send_keys("tomsmith")
+driver.find_element(By.ID, "password").send_keys("SuperSecretPassword!")
+
+# Click Login button
+driver.find_element(By.CSS_SELECTOR, "button.radius").click()
+
+time.sleep(3)
+
+# Verify successful login
+message = driver.find_element(By.ID, "flash").text
+if "You logged into a secure area!" in message:
+    print("Login Test Passed")
+else:
+    print("Login Test Failed")
+
+# Close browser
+driver.quit()v
